@@ -2,7 +2,7 @@
 # STARTER-jpa03
 
 Storybook is here:
-* Production: <https://CS-3704-Spring-2023.github.io/jpa03-Seemill-docs/>
+* Production: <https://github.com/CS-3704-Spring-2023/spring-setup-group-1-docs>
 * QA:  <https://CS-3704-Spring-2023.github.io/jpa03-Seemill-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
