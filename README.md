@@ -4,6 +4,7 @@
 Storybook is here:
 * Production: <https://github.com/CS-3704-Spring-2023/spring-setup-group-1-docs>
 * QA:  <https://github.com/CS-3704-Spring-2023/spring-setup-group-1-docs-qa>
+
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
